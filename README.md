@@ -221,3 +221,5 @@ If you are using Google Vertex AI instead of OpenAI, follow these steps:
 - **[LangChain vs LangGraph vs Deep Agents](https://docs.langchain.com/oss/python/concepts/products)** - How the frameworks relate
 - **[LangChain Academy](https://academy.langchain.com/)** - Free courses with video tutorials
 - **[LangSmith](https://smith.langchain.com)** - Debugging and monitoring for LLM applications
+
+-----------------------Regard ABDUL KABIR KHAN-----------------------------------------------------------------------------
